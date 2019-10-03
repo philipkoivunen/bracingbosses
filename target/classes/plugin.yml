@@ -1,0 +1,11 @@
+name: bracingbosses
+version: 0.1.0
+author: philip2096
+description: A simple to use bosspawning plugin
+main: com.github.philipkoivunen.bracingbosses.Bosses
+depend: [ProtocolLib]
+api-version: 1.13
+commands:
+  boss:
+    aliases:
+      - boss
