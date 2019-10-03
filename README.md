@@ -1,2 +1,2 @@
-# bracingbosses
-Custome made bosses spigot minecraft pluginen
+# Bracingbosses
+Custom made, easy to use custom bossplugin for minecraft spigot.
