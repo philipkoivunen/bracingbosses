@@ -9,3 +9,8 @@ commands:
   boss:
     aliases:
       - boss
+permissions:
+  bossybosses.summon:
+    default: false
+  bossybosses.reload:
+    default: false

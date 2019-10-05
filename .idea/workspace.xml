@@ -2,10 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6a6a358-401d-4df0-8ce0-bdd11f6b9757" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/logs/2019-10-03-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/logs/2019-10-03-2.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/logs/2019-10-05-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/logs/2019-10-05-2.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/plugins/LuckPerms/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/plugins/LuckPerms/contexts.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/plugins/LuckPerms/luckperms-h2.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/plugins/bracingbosses/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/plugins/bracingbosses/translations/english.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/plugins/bracingbosses/translations/swedish.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/philipkoivunen/bracingbosses/TrailsReload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/philipkoivunen/bracingbosses/bosses/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/philipkoivunen/bracingbosses/commandHandlers/SummonHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/philipkoivunen/bracingbosses/constants/BossConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/philipkoivunen/bracingbosses/constants/ConfigConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/philipkoivunen/bracingbosses/constants/MessageConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/translations/english.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/translations/swedish.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/bukkit.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server/bukkit.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/commands.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server/commands.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/server/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/ops.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/ops.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/paper.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server/paper.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugins/ProtocolLib/lastupdate" beforeDir="false" afterPath="$PROJECT_DIR$/server/plugins/ProtocolLib/lastupdate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugins/TrendyTrails/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server/plugins/TrendyTrails/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugins/TrendyTrails/translations/english.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server/plugins/TrendyTrails/translations/english.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugins/TrendyTrails/translations/swedish.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server/plugins/TrendyTrails/translations/swedish.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/plugins/bracingbosses-0.1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/server/plugins/bracingbosses-0.1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/server.properties" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/spigot.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server/spigot.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/usercache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world/advancements/bf6d2333-0ea1-45d4-877a-b006d31e91d1.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/world/advancements/bf6d2333-0ea1-45d4-877a-b006d31e91d1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/server/world/data/raids.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world/datapacks/bukkit/pack.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/server/world/datapacks/bukkit/pack.mcmeta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/server/world/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/server/world/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world/playerdata/bf6d2333-0ea1-45d4-877a-b006d31e91d1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/server/world/playerdata/bf6d2333-0ea1-45d4-877a-b006d31e91d1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world/poi/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/server/world/poi/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/server/world/region/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/server/world/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world/region/r.-2.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/server/world/region/r.-2.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world/region/r.-2.1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/server/world/region/r.-2.1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/server/world/region/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/server/world/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world/region/r.0.1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/server/world/region/r.0.1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/server/world/session.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world/stats/bf6d2333-0ea1-45d4-877a-b006d31e91d1.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/world/stats/bf6d2333-0ea1-45d4-877a-b006d31e91d1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world_nether/DIM-1/data/raids_nether.dat" beforeDir="false" afterPath="$PROJECT_DIR$/server/world_nether/DIM-1/data/raids_nether.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world_nether/DIM-1/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/server/world_nether/DIM-1/region/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world_nether/DIM-1/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/server/world_nether/DIM-1/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world_nether/DIM-1/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/server/world_nether/DIM-1/region/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world_nether/DIM-1/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/server/world_nether/DIM-1/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world_nether/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/server/world_nether/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world_nether/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/server/world_nether/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world_nether/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/server/world_nether/session.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world_the_end/DIM1/data/raids_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/server/world_the_end/DIM1/data/raids_end.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world_the_end/DIM1/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/server/world_the_end/DIM1/region/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world_the_end/DIM1/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/server/world_the_end/DIM1/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world_the_end/DIM1/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/server/world_the_end/DIM1/region/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world_the_end/DIM1/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/server/world_the_end/DIM1/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world_the_end/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/server/world_the_end/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world_the_end/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/server/world_the_end/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/world_the_end/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/server/world_the_end/session.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/philipkoivunen/bracingbosses/BossSummon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/philipkoivunen/bracingbosses/BossSummon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/philipkoivunen/bracingbosses/Bosses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/philipkoivunen/bracingbosses/Bosses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/philipkoivunen/bracingbosses/bosses/PumpkinLord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/philipkoivunen/bracingbosses/bosses/PumpkinLord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/bracingbosses-0.1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/bracingbosses-0.1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/philipkoivunen/bracingbosses/BossSummon.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/philipkoivunen/bracingbosses/BossSummon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/philipkoivunen/bracingbosses/Bosses.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/philipkoivunen/bracingbosses/Bosses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/philipkoivunen/bracingbosses/bosses/PumpkinLord.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/philipkoivunen/bracingbosses/bosses/PumpkinLord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-bracingbosses-0.1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-bracingbosses-0.1.0.jar" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,19 +111,19 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server/plugins" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.39770114" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Phili\Documents\git\bracingbosses\server\plugins" />
+      <recent name="C:\Users\Phili\Documents\git\bracingbosses\server" />
+      <recent name="C:\Users\Phili\Documents\git\bracingbosses\src\main\resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Phili\Documents\git\bracingbosses\server" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Phili\Documents\git\bracingbosses\server" />
-      <recent name="C:\Users\Phili\Documents\git\bracingbosses\server\plugins" />
-      <recent name="C:\Users\Phili\Documents\git\bracingbosses\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -146,6 +219,13 @@
       <option name="presentableId" value="Default" />
       <updated>1570035611082</updated>
     </task>
+    <task id="LOCAL−00001" summary="changed readme">
+      <created>1570126302631</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1570126302631</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,7 +233,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -161,5 +243,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="changed readme" />
+    <MESSAGE value="added config and multiple language support and added an abstract pattern for bossmanaging" />
+    <option name="LAST_COMMIT_MESSAGE" value="added config and multiple language support and added an abstract pattern for bossmanaging" />
   </component>
 </project>

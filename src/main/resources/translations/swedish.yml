@@ -1,0 +1,5 @@
+no_permission: "§cDu får inte göra detta"
+configuration_reload_failed: "§cNågot gick fel vid inladdning av konfigurationen"
+configuration_reloaded: "§eKonfigurationen är omladdad"
+summon_failed: "§cKunde inte kalla på bossen"
+summon_success: "§eBossen har blivit kallad"

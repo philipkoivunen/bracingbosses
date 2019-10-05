@@ -1,3 +1,9 @@
 com\github\philipkoivunen\bracingbosses\BossSummon.class
+com\github\philipkoivunen\bracingbosses\constants\MessageConstants.class
 com\github\philipkoivunen\bracingbosses\bosses\PumpkinLord.class
+com\github\philipkoivunen\bracingbosses\constants\ConfigConstants.class
+com\github\philipkoivunen\bracingbosses\commandHandlers\SummonHandler.class
+com\github\philipkoivunen\bracingbosses\TrailsReload.class
 com\github\philipkoivunen\bracingbosses\Bosses.class
+com\github\philipkoivunen\bracingbosses\bosses\Boss.class
+com\github\philipkoivunen\bracingbosses\constants\BossConstants.class
